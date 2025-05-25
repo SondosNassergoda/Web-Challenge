@@ -10,4 +10,8 @@ public class TestClass extends BaseTests{
        boolean displayingProduct = searchBox.WaitForElement();
         assertTrue(displayingProduct);
     }
+    @Test
+    public void SondosTest(){
+
+    }
 }
