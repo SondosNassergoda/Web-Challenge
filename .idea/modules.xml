@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Web-Challenge.iml" filepath="$PROJECT_DIR$/.idea/Web-Challenge.iml" />
+      <module fileurl="file://$USER_HOME$/Web-Challenge/WebCodeChallengeLISA/WebCodeChallengeLISA.iml" filepath="$USER_HOME$/Web-Challenge/WebCodeChallengeLISA/WebCodeChallengeLISA.iml" />
     </modules>
   </component>
 </project>
