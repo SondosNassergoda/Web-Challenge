@@ -15,9 +15,4 @@ public class TestClass extends BaseTests{
 
     }
 
-    @Test
-    public void SondosSecondTest(){
-
-    }
-
 }
