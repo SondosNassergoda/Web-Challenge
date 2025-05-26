@@ -11,7 +11,13 @@ public class TestClass extends BaseTests{
         assertTrue(displayingProduct);
     }
     @Test
-    public void SondosTest(){
+    public void SondosFirstTest(){
 
     }
+
+    @Test
+    public void SondosSecondTest(){
+
+    }
+
 }
